@@ -1,8 +1,8 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": ".",
-  "private": false,
+  "homepage": "https://codebysalah.github.io/dashboard1",
+  "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.18",
     "@testing-library/jest-dom": "^5.17.0",
