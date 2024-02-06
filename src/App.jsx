@@ -5,7 +5,7 @@ import Products from "./Components/Products";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/dashboard1">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Dashboard />}/>
