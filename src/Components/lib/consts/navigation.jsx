@@ -1,4 +1,13 @@
-import {HiOutlineCog, HiOutlineCube, HiOutlineDocumentText, HiOutlineViewGrid, HiOutlineUsers, HiOutlineChatAlt, HiOutlineShoppingCart, HiOutlineQuestionMarkCircle} from "react-icons/hi";
+import {
+    HiOutlineCog,
+    HiOutlineCube,
+    HiOutlineDocumentText,
+    HiOutlineViewGrid,
+    HiOutlineUsers,
+    HiOutlineChatAlt,
+    HiOutlineShoppingCart,
+    HiOutlineQuestionMarkCircle
+} from 'react-icons/hi'
 
 export const DASHBOARD_SIDEBAR_LINKS = [
     {
